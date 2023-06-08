@@ -1,0 +1,17 @@
+.contener{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-radius: 16px;
+    outline: none;
+}
+.btn:hover{
+    background-color: rgb(88, 83, 83);
+}
